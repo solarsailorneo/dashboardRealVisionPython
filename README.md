@@ -13,8 +13,8 @@ This is a simple Streamlit dashboard that visualizes time series data from CSV f
 
 1. **Clone the Repository** (if you have your code in a repository):
    ```bash
-   git clone [your-repository-link]
-   cd [repository-name]
+   git clone https://github.com/solarsailorneo/dashboard.rv.py
+   cd dashboard.rv.py
    ```
 
 2. **Install Required Libraries**:
