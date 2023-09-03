@@ -30,9 +30,10 @@ This is a simple Streamlit dashboard that visualizes time series data from CSV f
 
 ```json
 {
-   "file1": "sample1.csv",
-   "file2": "sample2.csv",
-   ...
+    "chart1": ["sample1a.csv", "sample1b.csv"],
+    "chart2": ["sample2a.csv", "sample2b.csv"],
+    "chart3": ["sample3a.csv", "sample3b.csv"],
+    "chart4": ["sample4a.csv", "sample4b.csv"]
 }
 ```
 
